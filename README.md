@@ -1,4 +1,4 @@
-# 🫧 Flutter Study space 🫧
+# 🫧 Flutter & Dart Study space 🫧
 
 ## Mostly Uploading "Practice Codes", while learning from `Flutter & Dart - The Complete Guide [2022 Edition]` course.
 
